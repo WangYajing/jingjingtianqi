@@ -18,8 +18,11 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"-----");
+
     UIButton *butt = nil;
     UIButton *button2 = nil;
+
+    UIButton *button = nil;
 }
 
 - (void)didReceiveMemoryWarning {
